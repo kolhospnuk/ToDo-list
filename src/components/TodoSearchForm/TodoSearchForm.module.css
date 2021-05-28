@@ -1,0 +1,23 @@
+.form {
+  margin-top: 30px;
+  width: 100%;
+}
+.formInput {
+  width: 56%;
+  height: 38px;
+}
+.formBtnGroup {
+  display: inline-block;
+}
+.formBtnGroupItem {
+  background-color: #00838e;
+  border: 1px solid #026b74;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+}
+.formBtnGroupItem:hover {
+  background-color: #026b74;
+}
+
+/*# sourceMappingURL=TodoSearchForm.module.css.map */

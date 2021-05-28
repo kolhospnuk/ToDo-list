@@ -1,0 +1,27 @@
+.todoName {
+  font-size: 30px;
+}
+
+.todoBtnsDone {
+  height: 35px;
+  width: 35px;
+  border: none;
+  background-color: orange;
+  border-radius: 100%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.todoBtnsDelete {
+  height: 35px;
+  width: 35px;
+  border: none;
+  border-radius: 100%;
+  background-color: darkred;
+  cursor: pointer;
+}
+
+:global(.done) {
+  background-color: #3e880c;
+}
+
+/*# sourceMappingURL=TodoListItem.module.css.map */

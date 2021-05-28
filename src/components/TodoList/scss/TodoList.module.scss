@@ -1,0 +1,10 @@
+.todo {
+  &List {
+    list-style: none;
+    &Item {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 10px;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  max-width: 600px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 50px 30px;
+  background-color: #4fb3be;
+}
+
+/*# sourceMappingURL=App.module.css.map */

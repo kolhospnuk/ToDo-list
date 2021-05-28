@@ -1,0 +1,19 @@
+.form {
+  margin-top: 30px;
+  width: 100%;
+  &Input {
+    width: 85%;
+    height: 38px;
+  }
+  &Btn {
+    display: inline-block;
+    background-color: #00838e;
+    border: 1px solid #026b74;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    &:hover {
+      background-color: #026b74;
+    }
+  }
+}
